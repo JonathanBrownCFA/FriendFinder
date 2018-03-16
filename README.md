@@ -4,7 +4,7 @@
   <strong>Find someone</strong>
 </div>
 <div align="center">
-  A <code>full-stack</code> application designed to find your perfect mate
+  A <code>full-stack</code> application
 </div>
 
 <br />
