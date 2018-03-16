@@ -40,7 +40,7 @@ Friend Finder is a full stack node app deployed on Heroku. Data is saved in a fi
 
 - survey
 
-  ![image](./app/public/images/ff_survey.png)
+  ![image](./app/public/images/ff_new_survey.png)
 
 ## Target Audience
 Casual users looking to see who they best resemble will enjoy the app. A community of friends, co-workers, or students can compare their interests to each other as well.
